@@ -29,4 +29,8 @@ body {
   display: flex;
 }
 
+.notification-svg, .messages-svg {
+  overflow: visible;
+}
+
 /*# sourceMappingURL=index.bde53b6b.css.map */
